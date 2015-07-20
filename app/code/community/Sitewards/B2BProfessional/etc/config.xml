@@ -22,6 +22,14 @@
                     <product_list>Sitewards_B2BProfessional_Block_Catalog_Product_List</product_list>
                 </rewrite>
             </catalog>
+            <bundle>
+                <rewrite>
+                    <catalog_product_view_type_bundle_option_checkbox>Sitewards_B2BProfessional_Block_Bundle_Catalog_Product_View_Type_Bundle_Option_Checkbox</catalog_product_view_type_bundle_option_checkbox>
+                    <catalog_product_view_type_bundle_option_multi>Sitewards_B2BProfessional_Block_Bundle_Catalog_Product_View_Type_Bundle_Option_Multi</catalog_product_view_type_bundle_option_multi>
+                    <catalog_product_view_type_bundle_option_radio>Sitewards_B2BProfessional_Block_Bundle_Catalog_Product_View_Type_Bundle_Option_Radio</catalog_product_view_type_bundle_option_radio>
+                    <catalog_product_view_type_bundle_option_select>Sitewards_B2BProfessional_Block_Bundle_Catalog_Product_View_Type_Bundle_Option_Select</catalog_product_view_type_bundle_option_select>
+                </rewrite>
+            </bundle>
         </blocks>
     </global>
     <frontend>
